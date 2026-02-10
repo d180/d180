@@ -18,11 +18,11 @@
 
 ## About Me
 
-I am a **Master's student in Computer Science** at **California State University, Fullerton** (GPA: 3.89/4.00), passionate about **Cloud Computing**, **Distributed Systems**, and **AI**. 
+I am a **Master's student in Computer Science** at **California State University, Fullerton** (GPA: 3.89/4.00), passionate about **Software Development**, **Cloud Computing**, **Distributed Systems**, and **AI**. 
 
 - I’m currently working as a **Cloud Engineer Intern** at **DataHub LLC**, ensuring high availability with **CockroachDB**.
 - I have experience building full-stack applications with **React, Node.js**, and **Python**.
-- I love tackling complex engineering challenges, from building **custom Redis implementations** in C++ to deploying **RAG AI Agents**.
+- I like building things the way they run in the real world, from **Dockerized services** to **clean APIs** and **actual deployments**.
 
 ---
 
