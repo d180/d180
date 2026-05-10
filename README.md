@@ -78,9 +78,6 @@ I am a **Master's student in Computer Science** at **California State University
 | **Cloud Monitoring System** | Full observability stack · 35% faster incident response | Prometheus, Grafana, AWS CloudWatch |
 
 ---
-
-## GitHub Activity
- 
-[![Dhrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d180&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/d180)
- 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=d180&theme=minimal&hide_border=true&area=true)
+<div align="center">
+  <sub>Based in Fullerton, CA · Open to full-time SWE roles starting Summer 2026</sub>
+</div>
