@@ -20,7 +20,7 @@
 
 I am a **Master's student in Computer Science** at **California State University, Fullerton** (GPA: 3.89/4.00), passionate about **Software Development**, **Cloud Computing**, **Distributed Systems**, and **AI**. 
 
-- I’m currently working as a **Cloud Engineer Intern** at **DataHub LLC**, ensuring high availability with **CockroachDB**.
+- I’m currently working as a **Software Developer Intern** at **DataHub LLC**, ensuring high availability with **CockroachDB**.
 - I have experience building full-stack applications with **React, Node.js**, and **Python**.
 - I like building things the way they run in the real world, from **Dockerized services** to **clean APIs** and **actual deployments**.
 
@@ -68,22 +68,19 @@ I am a **Master's student in Computer Science** at **California State University
 
 ---
 
-## Featured Projects
-
-- **[RateMyBot](http://ratemybots.com)**: Embeddable feedback widget for chatbots using **TypeScript**, **React**, and **Supabase**. Handles **10K+ feedback events** with sub-second reads.
-- **Build Your Own Redis**: Concurrent key-value store in **C++** with **RESP** protocol. Achieves **65,000 ops/sec** and reduced latency by **18%**.
-- **Enterprise RAG AI Agent**: Production-grade RAG system using **FastAPI**, **PostgreSQL/pgvector**, and **LLMs** with **150ms** retrieval latency.
-- **Cloud Monitoring System**: Cloud-wide observability with **Prometheus**, **Grafana**, and **AWS CloudWatch**. Improved incident response time by **35%**.
+## Projects
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| **[RateMyBot](http://ratemybots.com)** | Feedback widget for chatbots — embeddable, real-time, analytics-ready | TypeScript, React, Supabase |
+| **Build Your Own Redis** | Concurrent in-memory KV store from scratch · 65K ops/sec, 75 concurrent connections | Python, TCP Sockets, RESP |
+| **Enterprise RAG AI Agent** | Production RAG system · 150ms retrieval latency across 50K+ embedded records | FastAPI, PostgreSQL, pgvector, LLMs |
+| **Cloud Monitoring System** | Full observability stack · 35% faster incident response | Prometheus, Grafana, AWS CloudWatch |
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d180&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/d180/d180/output/snake.svg" alt="Snake animation" />
-</div>
+## GitHub Activity
+ 
+[![Dhrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d180&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/d180)
+ 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=d180&theme=minimal&hide_border=true&area=true)
